@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently enrolled in masters program at University at Buffalo. 
 - 🌱 I’m currently learning new technologies about DevOps and AWS.
-- 💬 Talk to me about UFC, stand-up comedy, nutrition and world politics.
+- 💬 Talk to me about UFC, stand-up comedy, and workout.
 - 📟 Technologies: Python, Docker, Kubernetes, Prometheus, Grafana, JAVA, OOP ...
